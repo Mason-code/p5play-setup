@@ -33,7 +33,7 @@ In `index.html`, add the following basic structure:
 
 ## 3. Write Your p5 Code
 
-In game.js, add your code, for example:
+Add your code in game.js, for example:
 
 ```js
 function setup() {
