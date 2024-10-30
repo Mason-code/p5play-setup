@@ -21,9 +21,11 @@ In `index.html`, add the following basic structure:
   <title>p5.play Project</title>
   <!-- Load p5.js library -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
-  <!-- Load p5.play library -->
-  <script src="https://cdn.jsdelivr.net/npm/p5.play/lib/p5.play.js"></script>
-  <!-- Link to your main game file -->
+  <!-- Load planck.js library from a stable source -->
+  <script src="https://unpkg.com/planck-js@0.3.0/build/planck.min.js"></script>
+  <!-- Load p5.play library (compatible version) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.play/1.4.0/p5.play.min.js"></script>
+  <!-- Link to your custom JavaScript file -->
   <script src="game.js" defer></script>
 </head>
 <body>
@@ -37,11 +39,11 @@ Add your code in game.js, for example:
 
 ```js
 function setup() {
-  createCanvas(400, 400);
-  background(200);
+    createCanvas(400, 400);
+    background(200);
 }
-
+  
 function draw() {
-  // Your game code goes here
+    // Your game code goes here
 }
 ```
