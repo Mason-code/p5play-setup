@@ -1,6 +1,6 @@
 <!-- the readme is written in markdown -->
 # Setup step from Github (immensely easy)
-1. Download repository
+## 1. Download repository
 
 You are now setup and ready to code. 
 - To code open the JavaScript file in any IDE (integrated development environment).
