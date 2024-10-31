@@ -6,7 +6,15 @@ You are now setup and ready to code.
 - To code open the JavaScript file in any IDE (integrated development environment).
 - To run the code click on the html file. It should open in your browser and display the program.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 ---
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Setup steps from scratch (easy)
 
